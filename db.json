@@ -1,6 +1,39 @@
 {
-	"Vouchers": [{
-		"voucherNumber": 345,
-		"type": "payment"
-	}]
+	"Vch":
+		[{
+				"Vch Num": "1",
+				"Vch Dt.": "1-Apr-2017",
+				"items":
+					[{
+							"Stock Item": "Item1",
+							"Qty": "100 Nos"
+						},
+						{
+							"Stock Item": "Item2",
+							"Qty": "40 Nos"
+						},
+						{
+							"Stock Item": "Item3",
+							"Qty": "25 Nos"
+						}
+					]
+			},
+			{
+				"Vch Num": "1",
+				"Vch Dt.": "1-Apr-2017",
+				"items": [{
+						"Stock Item": "Item1",
+						"Qty": "500 Nos"
+					},
+					{
+						"Stock Item": "Item2",
+						"Qty": "300 Nos"
+					},
+					{
+						"Stock Item": "Item3",
+						"Qty": "450 Nos"
+					}
+				]
+			}
+		]
 }
