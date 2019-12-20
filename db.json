@@ -1,6 +1,8 @@
 {
-	"vouchers": [{
-		"voucherNumber": 345,
-		"type": "payment"
+	"Vouchers": [{
+		"vouchers": [{
+			"voucherNumber": 345,
+			"type": "payment"
+		}]
 	}]
 }
