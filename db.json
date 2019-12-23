@@ -3,6 +3,7 @@
 		[{
 				"VchNum": "5",
 				"VchDt": "2-Apr-2017",
+				"VchType":"Payments",
 				"items":
 					[{
 							"StockItem": "Item1",
@@ -21,6 +22,7 @@
 			{
 				"VchNum": "278",
 				"VchDt": "3-Apr-2017",
+				"VchType":"Payments",
 				"items": [{
 						"StockItem": "Item1",
 						"Qty": "500 Nos"
