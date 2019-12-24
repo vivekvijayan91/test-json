@@ -1,41 +1,26 @@
 {
 	"Vch":
-		[{
-				"VchNum": "5",
-				"VchDt": "2-Apr-2017",
-				"VchType":"Payment",
-				"items":
-					[{
-							"StockItem": "Item1",
-							"Qty": "100 Nos"
-						},
-						{
-							"StockItem": "Item2",
-							"Qty": "40 Nos"
-						},
-						{
-							"StockItem": "Item3",
-							"Qty": "25 Nos"
-						}
-					]
-			},
+		[
 			{
-				"VchNum": "278",
-				"VchDt": "3-Apr-2017",
-				"VchType":"Payment",
-				"items": [{
-						"StockItem": "Item1",
-						"Qty": "500 Nos"
-					},
-					{
-						"StockItem": "Item2",
-						"Qty": "300 Nos"
-					},
-					{
-						"StockItem": "Item3",
-						"Qty": "450 Nos"
-					}
-				]
+				"sourceCompany" = "Beta Supplier",
+				"voucherNumber" = "2",
+				"date" = "19 - Apr - 2019",
+				"type" = "Payment",
+				"partyLedgerName" = "Cash",
+				"narration" = "tre",
+				"createdDate" = "24 - 12 - 2019",
+				"createdTime" = "17: 36",
+				"items" = [{
+					"name" = "Item 1",
+					"amount"" = -5000.0
+				}],
+				ledgers = [{
+					"name" = "Sales @ 4 %" ,
+					"amount" = -5000.0
+				}, {
+					"name" = "Cash",
+					"amount" = 5000.0
+				}]
 			}
 		]
 }
