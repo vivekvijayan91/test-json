@@ -12,7 +12,7 @@
 				"createdTime" : "17: 36",
 				"items" : [{
 					"name" : "Item 1",
-					"amount"" : -5000.0
+					"amount" : -5000.0
 				}],
 				"ledgers" : [{
 					"name" : "Sales @ 4 %" ,
