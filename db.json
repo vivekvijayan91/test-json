@@ -14,7 +14,7 @@
 					"name" : "Item 1",
 					"amount"" : -5000.0
 				}],
-				ledgers : [{
+				"ledgers" : [{
 					"name" : "Sales @ 4 %" ,
 					"amount" : -5000.0
 				}, {
