@@ -10,11 +10,11 @@
 				"narration" : "tre",
 				"createdDate" : "24 - 12 - 2019",
 				"createdTime" : "17: 36",
-				"items" = [{
+				"items" : [{
 					"name" : "Item 1",
 					"amount"" : -5000.0
 				}],
-				ledgers = [{
+				ledgers : [{
 					"name" : "Sales @ 4 %" ,
 					"amount" : -5000.0
 				}, {
